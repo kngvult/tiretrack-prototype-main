@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
   postgres: ^3.4.0
   cupertino_icons: ^1.0.8
-  flutter_local_notifications: ^17.2.3
+  flutter_local_notifications: ^19.2.1
   http: ^1.2.2
   logger: ^2.4.0
   shared_preferences: ^2.0.15
@@ -22,7 +22,7 @@ dependencies:
   flutter_svg: ^2.1.0
   supabase_flutter: ^2.0.0
   google_fonts: ^6.2.1
-  fl_chart: ^0.69.0
+  fl_chart: ^1.0.0
   lib: ^0.0.3
   
   
